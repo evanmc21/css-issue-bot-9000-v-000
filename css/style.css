@@ -1,22 +1,5 @@
-body {
+div {
   background: pink;
-}
-h1 {
-  color: blue;
-  font-size: 3em;
-}
-
-h2 {
-  color: green;
-  font-weight: normal;
-  font-style: italic;
-}
-
-.completed {
-  font-family: Georgia;
-}
-
-#tasks .completed {
-  color: #ccc;
-  text-decoration: underline;
+  width: 200px;
+  height: 200px;
 }
